@@ -1,11 +1,10 @@
 import React, { Component, useState } from "react";
 import "../styles/App.css";
-import "index.js";
 
 const App = () => {
   return (
     <>
-      <index />
+      <p>I am learning React. My life is getting better. </p>
     </>
   );
 };
